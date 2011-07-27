@@ -1,0 +1,46 @@
+.oa #tab-wraps{background: #ECECEC;
+width: 850px;
+padding: 7px 9px;
+overflow: hidden;
+margin-top: 0.5em !important;
+margin-bottom: 2em !important;}
+
+.oa #tab-wraps .submit{float: right;
+margin: 0 !important;
+padding: 0 !important;}
+
+.oa #tab-wraps ul.tabs{background: #ECECEC;
+padding: 0;
+overflow: hidden;
+zoom: 1;
+line-height: 1em;}
+
+.oa #tab-wraps li{float: left;
+padding: 0;
+margin: 0 5px 0 0;}
+
+.oa #tab-wraps li a{padding: 0;
+margin: 0;
+border: 0;
+border: 1px solid #D5D5D5;
+border-bottom: 0;
+float: left;
+padding: 7px 9px;
+background: #E1E1E1;
+text-decoration: none;
+color: #555;
+-moz-border-radius-topleft: 3px;
+-moz-border-radius-topright: 3px;
+-webkit-border-top-left-radius: 3px;
+-webkit-border-top-right-radius: 3px;
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;}
+
+.oa #tab-wraps li.active a{background: white;
+border-color: #E1E1E1;
+color: #333;}
+
+.oa #tab-wraps .panel{color: #555; padding: 0; background: white; border: 1px solid #d5d5d5; border-top: 0; margin-bottom: 5px;}
+
+.oa table td, .oa table th{padding: 4px; text-align: left;}
+.oa table label{font-weight: normal;}
